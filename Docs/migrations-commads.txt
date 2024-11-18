@@ -1,0 +1,12 @@
+A scope represents a certain context, such as a web request or a unit of work. Any dependencies resolved within the same scope will receive the same instance. Scoped instances are particularly useful when you have stateful services or resources that need to be shared within a specific context
+
+dotnet tool install -–global dotnet-ef
+
+dotnet ef dbcontext script
+
+dotnet ef migrations add [Name]
+dotnet ef migrations remove
+dotnet ef migrations script
+dotnet ef migrations script --output udate.sql
+dotnet ef migrations script 20240311182621_Initial --output udate.sql
+dotnet ef database update
