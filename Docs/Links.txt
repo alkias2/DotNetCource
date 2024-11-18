@@ -1,0 +1,8 @@
+https://dotnetfoundation.org/
+https://dotnet.microsoft.com/en-us/apps/aspnet
+https://learn.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-8.0&tabs=windows
+https://learn.microsoft.com/en-us/aspnet/core/tutorials/choose-web-ui?view=aspnetcore-8.0
+https://learn.microsoft.com/en-us/aspnet/core/fundamentals/startup?view=aspnetcore-9.0
+
+https://www.youtube.com/watch?v=xuFdrXqpPB0
+https://www.youtube.com/watch?v=K4RQ_d1HZIQ
